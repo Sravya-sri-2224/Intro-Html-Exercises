@@ -1,0 +1,119 @@
+button{
+  font-family: Roboto;
+}
+.subscribe-button 
+{
+  background-color: rgb(200, 17, 17);
+  width: 110pX;
+  height: 45px;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 8px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  transition: opacity 1s,box-shadow 0.15;
+
+}
+.subscribe-button:hover
+{
+    opacity: 0.7;
+    box-shadow: 5px 5px 5px rgb(8, 8, 8,0.5);
+}
+  .subscribe-button:active
+{
+    opacity: 0.3;
+}
+.Request-now-button {
+  background-color: black;
+  width: 130pX;
+  height: 45px;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 8px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.add-to-cart 
+{
+  background-color: yellow;
+  width: 180pX;
+  height: 45px;
+  border: none;
+  color: black;
+  border-radius: 50px;
+  cursor: pointer;
+  margin-left: 8px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.sign-up 
+{
+  background-color: rgb(46, 164, 79);
+  width: 100pX;
+  height: 40px;
+  border: none;
+  font-weight: bold;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-left: 8px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.GetStarted 
+{
+  background-color: rgb(121, 82, 179);
+  width: 120pX;
+  height: 40px;
+  border: none ;
+  color: white;
+  font-weight: bold;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 8px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.Apply 
+{
+  background-color: rgb(10, 102, 194);
+  width: 240pX;
+  height: 40px;
+  border: none ;
+  color: white;
+  border-radius: 50px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-left: 8px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.save-button 
+{
+  color: rgb(10, 102, 194);
+  width: 80px;
+  height: 40px;
+  border-color: rgb(10, 102, 194);
+  border-radius: 20px;
+  border-style: solid;
+  border-width:1px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-left: 8px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  opacity: 1;
+}
+.Download {
+  width: 120pX;
+  height: 40px;
+  color: rgb(108, 117, 125);
+  margin-left: 8px;
+  cursor: pointer;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
